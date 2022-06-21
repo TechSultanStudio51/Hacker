@@ -41,6 +41,50 @@ Java Projects Easy: Chess
 
 Java Projects Easy: Tic Tac Toe
 
+Java Projects Easy: Type Speed Program
+
+Java Projects Mid: ATM Machine
+
+Java Projects Mid: Online Banking
+
+Javascript Project Easy: Calculator
+
+Javascript Project Easy: Changing Big Color
+
+Javascript Project Easy: Image Slider
+
+Javascript Project Mid: Quiz App
+
+Javascript Project Mid: Snake Game
+
+Javascript Project Mid: Weather App
+
+Javascript Project Pro: Neural Network
+
+Javascript Project Pro: Online Shop
+
+Javascript Project Pro: Progressive Web App
+
+
+MKIceAndFire
+
+
+Mastering Blender 3D: Character Set Design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
